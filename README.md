@@ -8,3 +8,7 @@ Features
 -JWT authentication
 -All user info and token stored in localStorage after login/register
 -Clean, simple UI with React
+<img width="1660" height="878" alt="Screenshot 2025-09-20 182927" src="https://github.com/user-attachments/assets/3da8e953-8ed2-488b-a62f-d7e247079926" />
+<img width="1824" height="974" alt="Screenshot 2025-09-20 182944" src="https://github.com/user-attachments/assets/b957817a-b513-4ede-a369-87a77ffa381f" />
+<img width="903" height="480" alt="Screenshot 2025-09-20 183010" src="https://github.com/user-attachments/assets/01c25bbc-00e3-46a9-af1c-2d90767dfb78" />
+<img width="825" height="814" alt="Screenshot 2025-09-20 183017" src="https://github.com/user-attachments/assets/df825a71-e555-4fc7-9cd6-668505c2e207" />
